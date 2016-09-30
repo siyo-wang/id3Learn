@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "id3Learn", "id3Learn\id3Lea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "id3learnWeb1", "id3learnWeb1\id3learnWeb1.csproj", "{72FE95DF-BBE6-4095-8B95-9B7FB520E676}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "id3Client", "id3Client\id3Client.csproj", "{71EF9A61-4D57-4992-8E8B-5B0A12766763}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{72FE95DF-BBE6-4095-8B95-9B7FB520E676}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72FE95DF-BBE6-4095-8B95-9B7FB520E676}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72FE95DF-BBE6-4095-8B95-9B7FB520E676}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71EF9A61-4D57-4992-8E8B-5B0A12766763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71EF9A61-4D57-4992-8E8B-5B0A12766763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71EF9A61-4D57-4992-8E8B-5B0A12766763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71EF9A61-4D57-4992-8E8B-5B0A12766763}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

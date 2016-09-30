@@ -20,3 +20,29 @@ c:\users\xiaoling\documents\visual studio 2015\Projects\id3Learn\id3Learn\bin\De
 c:\users\xiaoling\documents\visual studio 2015\Projects\id3Learn\id3Learn\bin\Debug\Microsoft.Owin.Hosting.xml
 c:\users\xiaoling\documents\visual studio 2015\Projects\id3Learn\id3Learn\bin\Debug\Serilog.xml
 c:\users\xiaoling\documents\visual studio 2015\Projects\id3Learn\id3Learn\bin\Debug\Serilog.Sinks.Literate.xml
+C:\Opensource\siyo\id3learn\id3Learn\bin\Debug\id3Learn.exe.config
+C:\Opensource\siyo\id3learn\id3Learn\obj\Debug\id3Learn.exe
+C:\Opensource\siyo\id3learn\id3Learn\obj\Debug\id3Learn.pdb
+C:\Opensource\siyo\id3learn\id3Learn\bin\Debug\id3Learn.exe
+C:\Opensource\siyo\id3learn\id3Learn\bin\Debug\id3Learn.pdb
+C:\Opensource\siyo\id3learn\id3Learn\bin\Debug\IdentityServer3.dll
+C:\Opensource\siyo\id3learn\id3Learn\bin\Debug\Microsoft.Owin.Diagnostics.dll
+C:\Opensource\siyo\id3learn\id3Learn\bin\Debug\Microsoft.Owin.dll
+C:\Opensource\siyo\id3learn\id3Learn\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Opensource\siyo\id3learn\id3Learn\bin\Debug\Microsoft.Owin.Hosting.dll
+C:\Opensource\siyo\id3learn\id3Learn\bin\Debug\Owin.dll
+C:\Opensource\siyo\id3learn\id3Learn\bin\Debug\Serilog.dll
+C:\Opensource\siyo\id3learn\id3Learn\bin\Debug\Serilog.Sinks.Literate.dll
+C:\Opensource\siyo\id3learn\id3Learn\bin\Debug\IdentityServer3.pdb
+C:\Opensource\siyo\id3learn\id3Learn\bin\Debug\IdentityServer3.xml
+C:\Opensource\siyo\id3learn\id3Learn\bin\Debug\Microsoft.Owin.xml
+C:\Opensource\siyo\id3learn\id3Learn\bin\Debug\Microsoft.Owin.Diagnostics.xml
+C:\Opensource\siyo\id3learn\id3Learn\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\Opensource\siyo\id3learn\id3Learn\bin\Debug\Microsoft.Owin.Hosting.xml
+C:\Opensource\siyo\id3learn\id3Learn\bin\Debug\Serilog.xml
+C:\Opensource\siyo\id3learn\id3Learn\bin\Debug\Serilog.Sinks.Literate.xml
+C:\Opensource\siyo\id3learn\id3Learn\obj\Debug\id3Learn.csprojResolveAssemblyReference.cache
+C:\Opensource\siyo\id3learn\id3Learn\bin\Debug\IdentityModel.dll
+C:\Opensource\siyo\id3learn\id3Learn\bin\Debug\Newtonsoft.Json.dll
+C:\Opensource\siyo\id3learn\id3Learn\bin\Debug\IdentityModel.pdb
+C:\Opensource\siyo\id3learn\id3Learn\bin\Debug\Newtonsoft.Json.xml
